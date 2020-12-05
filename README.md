@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Adrian, a software developer from Argentina. Feel free to take a look to my repos.
 <!--
 **dahue/dahue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
