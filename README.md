@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Adrian, a software developer from Argentina. Feel free to take a look around.
+### Hi there 👋 Feel free to take a look around!
 
 
 <!--
